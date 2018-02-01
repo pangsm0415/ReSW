@@ -12,7 +12,7 @@ a) ReSW image representation
 
 b) Image/object retrieval based on ReSW on public datasets: Oxford5k, Paris6k and Holidays.
 
-The code is written by: Jin Ma (m799133891@stu.xjtu.edu.cn); Shanmin Pang (pangsm@xjtu.edu.cn).
+The code is written by: Jin Ma (m799133891@stu.xjtu.edu.cn) and Shanmin Pang (pangsm@xjtu.edu.cn).
 If you have any question, please contact Jin Ma or Shanmin Pang.
 
 Setup
