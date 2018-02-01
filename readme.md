@@ -17,7 +17,7 @@ Setup
 ===========================================================================
 Dependencies
 1.	MatConvNet v1.0-beta18 or above (http://www.vlfeat.org/matconvnet/).
-2.	Optional but highly recommended: Yael_matlab (http://yael.gforge.inria.fr/index.html). All affiliated functions used in this program have already been contained in ¡®utils¡¯ folder.
+2.	Optional but highly recommended: Yael_matlab (http://yael.gforge.inria.fr/index.html). All affiliated functions used in this program have already been contained in 'utils' folder.
 3.	For siaMAC features, see this page: siaMAC(http://cmp.felk.cvut.cz/cnnimageretrieval/)
 4.  For netvlad features, see this page: netvlad (https://github.com/Relja/netvlad)
 
