@@ -8,6 +8,7 @@ Discriminative CNN image representations via replication equation for object ret
 
 This code implements
 a) ReSW image representation
+
 b) Image/object retrieval based on ReSW on public datasets: Oxford5k, Paris6k and Holidays.
 
 The code is written by: Jin Ma (m799133891@stu.xjtu.edu.cn); Shanmin Pang (pangsm@xjtu.edu.cn).
@@ -21,7 +22,7 @@ Dependencies
 3.	For siaMAC features, see this page: siaMAC(http://cmp.felk.cvut.cz/cnnimageretrieval/)
 4.  For netvlad features, see this page: netvlad (https://github.com/Relja/netvlad)
 
-Models
+Models:
 Three models used in our experiment are as follows:
 1. Vgg16: imagenet-matconvnet-vgg-verydeep-16 (http://www.vlfeat.org/matconvnet/models/imagenet-matconvnet-vgg-verydeep-16.mat)
 2. SiaMAC: retrievalSfM120k-siamac-vgg (http://cmp.felk.cvut.cz/cnnimageretrieval/networks/retrieval-SfM-120k/retrievalSfM120k-gem-vgg.mat)
