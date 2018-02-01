@@ -7,6 +7,7 @@ Shanmin Pang, Jihua Zhu, Jiaxing Wang, Vicente Ordonez and Jianru Xue,
 Discriminative CNN image representations via replication equation for object retrieval, submitted to Pattern Recognition. 
 
 This code implements
+
 a) ReSW image representation
 
 b) Image/object retrieval based on ReSW on public datasets: Oxford5k, Paris6k and Holidays.
@@ -23,6 +24,7 @@ Dependencies
 4.  For netvlad features, see this page: netvlad (https://github.com/Relja/netvlad)
 
 Models:
+
 Three models used in our experiment are as follows:
 1. Vgg16: imagenet-matconvnet-vgg-verydeep-16 (http://www.vlfeat.org/matconvnet/models/imagenet-matconvnet-vgg-verydeep-16.mat)
 2. SiaMAC: retrievalSfM120k-siamac-vgg (http://cmp.felk.cvut.cz/cnnimageretrieval/networks/retrieval-SfM-120k/retrievalSfM120k-gem-vgg.mat)
