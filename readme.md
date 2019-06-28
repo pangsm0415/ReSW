@@ -4,7 +4,7 @@ What is it?
 This repository contains an MATLAB implementation of the following paper:
  
 Shanmin Pang, Jihua Zhu, Jiaxing Wang, Vicente Ordonez and Jianru Xue,
-Discriminative CNN image representations via replication equation for object retrieval, submitted to Pattern Recognition. 
+Discriminative CNN image representations via replication equation for object retrieval, Pattern Recognition, Vol 83, 2018, pp 150-160. 
 
 This code implements
 
